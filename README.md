@@ -1,5 +1,5 @@
 # Odyssey Project in an Arduino-based CLE
-This project aims to provide a collaborative learning environment centered around Arduino, featuring nine hands-on projects inspired by the epic tales of the Odyssey. These projects offer an engaging and educational experience for beginners, allowing them to explore the world of Arduino while fostering collaboration and creativity. Each project is designed to be run as a simulation using Tinkercad, making it accessible and convenient for learners to get started on their Arduino journey
+Welcome to the Odyssey Project, an Arduino-based Collaborative Learning Environment (CLE) designed to introduce students to the exciting world of Arduino through a series of hands-on sketches inspired by the epic tales of the Odyssey.
 
 ## Getting Started
 To run these Arduino simulations using Tinkercad, follow these simple steps:
