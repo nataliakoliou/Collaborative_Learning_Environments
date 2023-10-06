@@ -1,4 +1,4 @@
-# Odyssey-Project-in-Arduino-CLE
+# Odyssey Project in an Arduino-based Collaborative Learning Environment
 
 This repository contains 9 Arduino scripts, designed for Collaborative Learning Environments.
 
